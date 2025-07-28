@@ -17,4 +17,4 @@ used_python = False
 hobbies = [Soccer, Volleyball, games]
 
 ## Step 6
-favorite_things = {"Games": "Fortnite"}
+favorite_things = {"Games": "Fortnite", "animal:" "dog"}, 

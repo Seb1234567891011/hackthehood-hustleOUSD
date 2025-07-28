@@ -26,4 +26,8 @@ print(number_list[-3:])
 books = {'Suzzane collins': 'The hunger games', 'George Orwell': '1984, 'Rick riordan': 'Percy Jackson', 'Jeff Kiney':'Diary of a Wimpy kid'}
 print(books.keys())
 print(books.values())
-print(books.get)
+print(books.get(Suzzane collins))
+print(books.pop(Suzzane collins))
+print(books)
+del books[Suzzane collins]
+print(books)

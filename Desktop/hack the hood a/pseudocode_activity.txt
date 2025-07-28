@@ -16,4 +16,4 @@ Start
     3aa. If the user snoozes, then alarm turns off for 5 minutes before sounding again. Ask the user again to snooze or stop
     (loops over and over again)
 3ab. If the user stops, alarm turns off, and exit the function.
-END
+END lab
